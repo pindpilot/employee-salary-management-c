@@ -1,0 +1,6 @@
+ems
+*.o
+employees.txt
+employees.tmp
+employees.bak
+__pycache__/
